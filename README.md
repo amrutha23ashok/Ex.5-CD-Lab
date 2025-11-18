@@ -16,7 +16,7 @@ To write a YACC program to recognize the grammar anb where n>=10.
 ```
 // EXP5.l file
 %{
-/* Definition section */ #include "y.tab.h"
+/* Definition section */ #include "y.tab.
 %}
 
 /* Rule Section */
